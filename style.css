@@ -4,7 +4,7 @@
 }
 
 .navbar-brand {
-    background-image: url(https://4.bp.blogspot.com/-ROnS5nKQb64/Xdsm_xqNMSI/AAAAAAAACOA/0tOiuMIE7f418u1f_IfU9LqkgMg6HEsxACKgBGAsYHg/s1600/1574642106222.png);
+    background-image: url(https://deathphreaks.web.app/images/dp/logo.png);
     background-size: 160px;
     width: 160px;
     height: 36px;
@@ -21,7 +21,7 @@
 
 /* jumbotron */
 .jumbotron {
-    background-image: url(https://www.globalssh.net/assets/images/jumbotron2.jpg);
+    background-image: url(https://deathphreaks.web.app/images/dp/logobanner.gif);
     background-size: cover;
     height: 350px;
     color: white;
@@ -591,7 +591,7 @@
 @media (min-width: 992px) {
 
     .navbar-brand {
-        background-image: url(https://4.bp.blogspot.com/-ROnS5nKQb64/Xdsm_xqNMSI/AAAAAAAACOA/0tOiuMIE7f418u1f_IfU9LqkgMg6HEsxACKgBGAsYHg/s1600/1574642106222.png);
+        background-image: url(https://deathphreaks.web.app/images/dp/logo.png);
         background-size: 160px;
         width: 160px;
         height: 36px;
